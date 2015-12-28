@@ -1,0 +1,25 @@
+{
+  "name": "parse-terminfo",
+  "version": "0.1.0",
+  "description": "read terminfo into native JS object",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codekirei/parse-terminfo.git"
+  },
+  "keywords": [
+    "terminfo",
+    "infocmp"
+  ],
+  "author": "Jacob Blakely (codekirei)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codekirei/parse-terminfo/issues"
+  },
+  "homepage": "https://github.com/codekirei/parse-terminfo#readme"
+}
